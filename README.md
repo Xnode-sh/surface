@@ -1,3 +1,7 @@
+<p align="center"><img src="assets/rig-banner.svg" width="1280" alt="XNODE — RED └•TEAM•┐ lab™"></p>
+
+[Штаб лаборатории](https://github.com/Xnode-sh) · [Профиль XNODE](https://github.com/Xnode-sh)
+
 # surface — Android attack surface mapper for Termux
 
 **Без root. Без adb. Прямо на телефоне.**
